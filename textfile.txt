@@ -1,1 +1,2 @@
-username:password
+password1
+password2
